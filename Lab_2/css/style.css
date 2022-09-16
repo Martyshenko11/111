@@ -1,0 +1,91 @@
+.main-table {
+    margin-left: 100px;
+}
+
+.light {
+    width: 71px;
+    height: 175px;
+    background-color: #C0C0C0;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 1px solid black;
+    border-radius: 14%;
+    position: fixed;
+}
+
+.first_circle {
+    width: 35px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 18px;
+    position: fixed;
+}
+
+.second_circle {
+    width: 35px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 65px;
+    margin-left: 18px;
+    position: fixed;
+}
+
+.third_circle {
+    width: 35px;
+    height: 40px;
+    background-color: green;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 120px;
+    margin-left: 18px;
+    position: fixed;
+}
+
+.next_light {
+    width: 71px;
+    height: 175px;
+    background-color: #C0C0C0;
+    margin-top: 100px;
+    margin-left: 470px;
+    border: 1px solid black;
+    border-radius: 14%;
+    transform: rotate(28deg) translate(5px) rotate(-28deg);
+}
+
+.trfirst_circle {
+    width: 35px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 18px;
+    transform: rotate(28deg) translate(1px) rotate(-28deg);
+}
+
+.trsecond_circle {
+    width: 35px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-left: 18px;
+    transform: rotate(28deg) translate(1px) rotate(-28deg);
+}
+
+.trthird_circle {
+    width: 35px;
+    height: 40px;
+    background-color: green;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 18px;
+    transform: rotate(28deg) translate(1px) rotate(-28deg);
+}
