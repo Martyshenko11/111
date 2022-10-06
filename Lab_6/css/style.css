@@ -1,0 +1,26 @@
+#add_sec {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+
+#user img {
+    width: 30px;
+    height: 30px;
+}
+
+#user {
+    display: flex;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    min-width: 200px;
+    background-color: yellow;
+}
+
+#user span {
+    margin-left: 10px;
+}
+
+
